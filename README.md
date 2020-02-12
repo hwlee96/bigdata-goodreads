@@ -2,7 +2,7 @@
 
 ### ZekeBook
 
-50.043 Database and Big Data Project
+50.043 Database and Big Data Project (Project details: https://github.com/dinhtta/istd50043_project/blob/master/README.md)
 
 Group Members: An Guo, Chelsea, Danial, Hang Wee, Seu Kim, Xiang Hao 
 
